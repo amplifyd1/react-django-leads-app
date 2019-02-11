@@ -11,4 +11,4 @@ To Run App Locally:
   ``` pipenv run python ./project/manage.py loaddata leads ```
  * Run on your server 
   ```pipenv run python ./project/manage.py runserver``` the project will now be available [here](http://127.0.0.1:8000/)
-
+ * E2E Tests: ```npm run e2e``` 
